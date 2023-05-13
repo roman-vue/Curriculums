@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="flex flex-row-reverse">
     <TemplateWorkspace />
     <UtilityBar />
   </div>
